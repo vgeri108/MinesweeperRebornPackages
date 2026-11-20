@@ -1,2 +1,2 @@
-https://github.com/vgeri108/MSR-ModPlatform/releases/download/latest/MinesweeperModAPI.dll
-https://github.com/vgeri108/MSR-ModPlatform/releases/download/latest/MinesweeperModLoader.dll
+https://github.com/vgeri108/MSR-ModPlatform/releases/download/1.0.0/MinesweeperModAPI.dll
+https://github.com/vgeri108/MSR-ModPlatform/releases/download/1.0.0/MinesweeperModLoader.dll
